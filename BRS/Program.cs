@@ -5,7 +5,6 @@ class Programm
     {
         //тело
         Console.WriteLine("1");
-        Console.WriteLine("2");
     }
     public void Yaroslav()
     {

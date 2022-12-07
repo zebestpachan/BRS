@@ -4,7 +4,6 @@ class Programm
     public void Main()
     {
         //тело
-        Console.WriteLine("1");
     }
     public void Yaroslav()
     {

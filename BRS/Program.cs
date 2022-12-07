@@ -16,5 +16,6 @@ class Programm
     {
         Console.WriteLine("Danil");
         Console.WriteLine("1");
+        Console.WriteLine();
     }
 }

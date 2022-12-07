@@ -6,6 +6,7 @@ class Programm
         //тело
         Console.WriteLine("1");
         Console.WriteLine("2");
+        Console.WriteLine("3");
     }
     public void Yaroslav()
     {
@@ -14,5 +15,6 @@ class Programm
     public void Danil()
     {
         Console.WriteLine("Danil");
+        Console.WriteLine("1");
     }
 }
